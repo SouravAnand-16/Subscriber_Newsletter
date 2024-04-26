@@ -4,8 +4,8 @@
 
 This project developed a newsletter sending application utilizing the MERN stack (MongoDB, Express.js, React.js, Node.js). The main functionality of this application was to allow users to enter an email address into an input field and send a dummy newsletter by pressing a "Send Newsletter" button.
 
-(<img width="1000" alt="newsletter" src="https://github.com/SouravAnand-16/Subscriber_Newsletter/assets/103479838/89b25077-5c97-4e4e-afe9-2194fbfbf30c">
- )
+<img width="1000" alt="newsletter" src="https://github.com/SouravAnand-16/Subscriber_Newsletter/assets/103479838/89b25077-5c97-4e4e-afe9-2194fbfbf30c">
+ 
 
 ## Technical Constraints
 
